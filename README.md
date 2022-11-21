@@ -1,4 +1,4 @@
-# PENJELASAN Pratikum5 DICTIONARY
+# PENJELASAN PRATIKUM_5 DICTIONARY
 
 1.Deklarasi dictionary data
 
